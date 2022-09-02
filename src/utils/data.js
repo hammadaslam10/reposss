@@ -1,0 +1,30 @@
+export const slides = [
+  {
+    subtitle: "Shop Trending T-Shirts that are now on sale!",
+    title: "T-SHIRTS SALE",
+    link: "/shop/shirts/sales",
+    img: "https://i.imgur.com/0ASbjos.jpg",
+    position: 1,
+    class: "white",
+    btntext: "Shop Now",
+  },
+  {
+    subtitle: "Shop exclusive ladies bags now on ShopiumX",
+    title: "LADIES BAGS",
+    link: "/shop/bags",
+    img: "https://i.imgur.com/h0EVY1R.jpg",
+    position: 2,
+    img2: "https://i.imgur.com/XDkA4cv.png",
+    class: "leftimg",
+    btntext: "Shop Now",
+  },
+  {
+    title: "New Arrivals 2021",
+    subtitle: "Discover New Arrivals",
+    link: "/new-arrivals",
+    img: "https://i.imgur.com/hdeCel6.jpg",
+    position: 3,
+    class: "center",
+    btntext: "Discover Now",
+  },
+];
